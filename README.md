@@ -1,1 +1,7 @@
-# Getting-To-Know-Each-Other-Better-
+# Table of contents
+[Team members] (#team-members)
+
+[Avatars] (#avatars)
+
+[Meaning] (#meaning)
+
