@@ -17,9 +17,9 @@
 ### * ![Image not found](https://cdn.newsapi.com.au/image/v1/5fe400894288b7956ab8d7bf9daa9881?width=650)
 ### * ![Image not found](http://www.takepart.com/sites/default/files/styles/large/public/parrot.jpg  )
 
-
-
-
-
-
+## Meaning 
+#### * Don't judge a book by its cover
+#### * Be positive always
+#### * I can do everything
+#### * What you allow, will continue
 
