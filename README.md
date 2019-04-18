@@ -1,11 +1,11 @@
 # Table of contents
-[Team members] (#team-members)
+[Team members](#team-members)
 
-[Avatars] (#avatars)
+[Avatars](#avatars)
 
-[Meaning] (#meaning)
+[Meaning](#meaning)
 
-## * Legends Team
+## * Team members
 ### * Rashmeet kaur 1896566
 ### * Prabhjot kaur 1896505
 ### * Akvinder kaur 1895975
